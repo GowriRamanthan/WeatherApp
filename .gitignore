@@ -8,6 +8,7 @@
 .serverless_nextjs
 .next
 .package-lock.json
+.idea
 
 # testing
 /coverage
