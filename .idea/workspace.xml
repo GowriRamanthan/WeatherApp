@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95b730ba-371f-41c8-90db-d98f85f25c27" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/__test__/index.spec.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/page-elements/menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/page-elements/sub-menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/tiles/weather.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enzyme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/open-weather-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/OpenWeatherIcons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/OpenWeatherIcons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/OpenWeatherIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/OpenWeatherIcons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/OpenWeatherIcons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/WeatherIcons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/WeatherIcons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/WeatherIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/WeatherIcons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/WeatherIcons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serverless.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/zeit.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Yl4o7jN91VHz4SFK21hmHQHHOT" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/public/fonts" />
+      <recent name="$PROJECT_DIR$/public/css" />
+      <recent name="$PROJECT_DIR$/components/page-elements" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/__test__" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Jest.MyComponent">
+    <configuration name="MyComponent" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/__test__/index.spec.tsx" />
+      <test-names>
+        <test-name value="MyComponent" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="MyComponent.populates the &quot;alert&quot; prop on getContent failure." type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__test__/index.spec.tsx" />
+      <test-names>
+        <test-name value="MyComponent" />
+        <test-name value="populates the &quot;alert&quot; prop on getContent failure." />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="MyComponent.populates the value passed as query param" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__test__/index.spec.tsx" />
+      <test-names>
+        <test-name value="MyComponent" />
+        <test-name value="populates the value passed as query param" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="MyComponent.renders the page when called with correct url" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__test__/index.spec.tsx" />
+      <test-names>
+        <test-name value="MyComponent" />
+        <test-name value="renders the page when called with correct url" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Visiting the static page renders app inside div" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__test__/index.spec.tsx" />
+      <test-names>
+        <test-name value="Visiting the static page renders app inside div" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.MyComponent" />
+        <item itemvalue="Jest.MyComponent.renders the page when called with correct url" />
+        <item itemvalue="Jest.MyComponent.populates the value passed as query param" />
+        <item itemvalue="Jest.MyComponent.populates the &quot;alert&quot; prop on getContent failure." />
+        <item itemvalue="Jest.Visiting the static page renders app inside div" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95b730ba-371f-41c8-90db-d98f85f25c27" name="Default Changelist" comment="" />
+      <created>1583504018423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583504018423</updated>
+      <workItem from="1583504019643" duration="46331000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/__test__/index.spec.tsx</url>
+          <line>26</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

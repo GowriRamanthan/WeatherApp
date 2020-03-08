@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js] Project to display the Weather App
+This App tries to use the same css format which is used in www.squaredup.com to be in consistent with design
 
 ## Getting Started
 
@@ -10,21 +11,35 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This code is deployed in AWS Lamba server instance
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+#Unit Testing in Jest
+```
+npm test
+```
 
-## Learn More
+## Deploy on AWS
+```bash
+npx serverless
+```
 
-To learn more about Next.js, take a look at the following resources:
+Please find below the URL for deployed instance
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+https://dmbtkkt4zo174.cloudfront.net
 
-You can check out [the Next.js GitHub repository](https://github.com/zeit/next.js/) - your feedback and contributions are welcome!
+It requires 2 query parameters to be passed in `city` and `country_code`
 
-## Deploy on ZEIT Now
+e.g.
 
-The easiest way to deploy your Next.js app is to use the [ZEIT Now Platform](https://zeit.co/) from the creators of Next.js.
+```bash
+https://dmbtkkt4zo174.cloudfront.net/?city=Leeds&country_code=GB
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Improvements which can be done :
+
+(1)  Integration testing with test cafe
+(2)  Configuring enviroment variables with .env
+(3)  CSS checking using the Visual Regression
+(4)  Vulnarability scanning in Zap
+
+
