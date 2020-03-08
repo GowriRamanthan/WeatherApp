@@ -1,5 +1,5 @@
 This is a [Next.js] Project to display the Weather App
-This App tries to use the same css format which is used in www.squaredup.com to be in consistent with design
+This App tries to follow the styling in www.squaredup.com to be in consistent with design
 
 ## Getting Started
 
@@ -37,7 +37,7 @@ https://dmbtkkt4zo174.cloudfront.net/?city=Leeds&country_code=GB
 https://dmbtkkt4zo174.cloudfront.net/?city=Chennai&country_code=IN
 ```
 
-Improvements which can be done :
+Future Improvements :
 
 (1)  Integration testing with test cafe
 (2)  Configuring environment variables with .env

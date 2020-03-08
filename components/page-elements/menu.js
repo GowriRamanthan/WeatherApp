@@ -1,3 +1,4 @@
+import React from 'react';
 const Menu = ({ currentWeather }) => (
     <div className="menu">
         <ul>

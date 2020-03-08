@@ -1,3 +1,4 @@
+import React from 'react';
 const SubMenu = ({ currentWeather }) => (
     <div className="sub-menu">
         <ul>

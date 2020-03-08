@@ -11,8 +11,16 @@
     "test:coverage": "jest --coverage"
   },
   "dependencies": {
+    "@babel/plugin-transform-runtime": "^7.8.3",
+    "@babel/runtime": "^7.8.7",
     "@testing-library/react": "^9.5.0",
+    "babel-core": "^6.26.3",
+    "babel-jest": "^25.1.0",
+    "babel-loader": "^8.0.6",
     "babel-plugin-rewire": "^1.2.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
     "express": "^4.17.1",
     "isomorphic-unfetch": "^3.0.0",
     "next": "9.2.2",
@@ -22,10 +30,7 @@
     "serverless-http": "^2.3.2"
   },
   "devDependencies": {
-    "babel-core": "^6.26.3",
-    "babel-jest": "^25.1.0",
-    "babel-preset-env": "^1.7.0",
-    "babel-preset-react": "^6.24.1",
+    "babel-plugin-transform-runtime": "^6.23.0",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2",
     "jest": "^25.1.0",

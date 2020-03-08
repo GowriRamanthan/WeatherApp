@@ -1,3 +1,4 @@
+import React from 'react';
 const WeatherTile = ({ currentWeather }) => (
     <div className="tile tile-weather">
         <h2>{currentWeather.name} </h2>
@@ -69,19 +70,18 @@ const WeatherTile = ({ currentWeather }) => (
 
 
 const getWeatherIcon = (currentWeather) => {
-    return "owi-"+currentWeather.weather[0].icon+" owi-5x owi";
+    return "owi-"+ currentWeather.weather[0].icon+" owi-5x owi";
 };
 
 const getTime = (unix_timestamp) => {
     const date = new Date(unix_timestamp * 1000);
     const hours = date.getHours();
     const minutes = "0" + date.getMinutes();
-
     return hours + ':' + minutes.substr(-2);
-
 };
 
 export default WeatherTile;
+export {getWeatherIcon, getTime};
 
 
 

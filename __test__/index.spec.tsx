@@ -26,6 +26,13 @@ describe("MyComponent", () => {
 
     it("renders the page when called with missing or incorrect query param", async () => {
         expect(props).toEqual( {"currentWeather": null, "errorCode": 404});
+    });
 
+    it("renders the page and we check the content when the page is loaded ", async () => {
+        const props = await Home.getInitialProps({
+            query: { city: "London" , "country_code": "GB"}
+        });
+        wrapper = shallow(<Home {...props} />);
+        expect(wrapper.text().includes('tile-grid')).toBe(true);
     })
 });
