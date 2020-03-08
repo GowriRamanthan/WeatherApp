@@ -2,31 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95b730ba-371f-41c8-90db-d98f85f25c27" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/__test__/index.spec.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/page-elements/menu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/page-elements/sub-menu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/tiles/weather.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enzyme.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/open-weather-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/OpenWeatherIcons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/OpenWeatherIcons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/OpenWeatherIcons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/OpenWeatherIcons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/OpenWeatherIcons.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/WeatherIcons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/WeatherIcons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/WeatherIcons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/WeatherIcons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/WeatherIcons.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serverless.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/zeit.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.serverless/Template.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.serverless/Template.nextApp.AwsS3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.serverless/Template.nextApp.CloudFront.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.serverless/Template.nextApp.defaultEdgeLambda.AwsIamRole.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.serverless/Template.nextApp.defaultEdgeLambda.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.serverless/_.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.serverless/cloudformation-template-create-stack.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.serverless/cloudformation-template-update-stack.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.serverless/serverless-state.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.serverless/weather-app.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.serverless_nextjs/default-lambda/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.serverless_nextjs/default-lambda/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.serverless_nextjs/default-lambda/next-aws-cloudfront.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.serverless_nextjs/default-lambda/pages/_error.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.serverless_nextjs/default-lambda/pages/error.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.serverless_nextjs/default-lambda/pages/index.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -157,7 +150,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583504018423</updated>
-      <workItem from="1583504019643" duration="46331000" />
+      <workItem from="1583504019643" duration="46726000" />
     </task>
     <servers />
   </component>
